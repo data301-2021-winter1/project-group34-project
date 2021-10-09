@@ -13,7 +13,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{based on our dataset, we plan to use numbers and dates for Netflix TV shows and movies up until the year 2019. This dataset will include 10 columns in which }
+{Based on our dataset, we plan to use numbers and dates for Netflix TV shows and movies up until the year 2019. This dataset will include 10 columns in which }
 
 ## Team Members
 
