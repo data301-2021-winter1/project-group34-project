@@ -18,7 +18,7 @@ With our project we hope to be able to use this dataset to compare different sho
 ## Team Members
 
 - Sagar Tejay: Hello, I'm 20 and I enjoy playing basketball and working out.
-- Person 2: one sentence about you!
+- Simrandeep Brar: Hey, I'm 21 and enjoy watching Netflix and listening to music.
 
 ## Images
 
