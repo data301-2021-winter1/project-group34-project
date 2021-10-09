@@ -24,7 +24,7 @@ Based on our dataset, we plan to use numbers and dates for Netflix TV shows and 
 
 {You can use this area for any images you want to include}
 
-<img src ="https://live.staticflickr.com/2909/14019907992_0544000a68_b.jpg" width="100px">
+<img src ="https://live.staticflickr.com/2909/14019907992_0544000a68_b.jpg" width="500px">
 
 ## References
 
