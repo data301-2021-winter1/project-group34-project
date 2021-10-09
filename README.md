@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Sagar Tejay: Hello, I'm 19 and I enjoy playing basketball and working out.
+- Sagar Tejay: Hello, I'm 20 and I enjoy playing basketball and working out.
 - Person 2: one sentence about you!
 
 ## Images
