@@ -13,13 +13,12 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+{based on our dataset, we plan to use numbers and dates for Netflix TV shows and movies up until the year 2019. This dataset will include 10 columns in which }
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Sagar Tejay: Hello, I'm 19 and I enjoy playing basketball and working out.
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
 
 ## Images
 
