@@ -20,7 +20,7 @@ def load_and_process(url_or_path_to_csv_file):
               .rename(columns={"show_id": "Show ID", "country": "Country", "date_added": "Date Added"})
               .rename(columns={"rating": "Rating", "duration": "Duration", "description": "Description"})
               .drop(["Description"], axis = 1)
-              .sort_values(by = "Show ID", ascending = True)
+              .sort_values(by = "Release Year", ascending = True)
             
       )
 
